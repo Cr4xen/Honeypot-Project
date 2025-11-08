@@ -1,0 +1,4 @@
+# example only - this project reads CLI args, but you can adapt to config files later
+ports = "22,80,23,2222"
+log_dir = "logs"
+max_capture = 8192
